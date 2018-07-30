@@ -1,5 +1,5 @@
 ---
-uid: {{template}}
+uuid: {{template}}
 layout: node
 permalink: /nodes/{{template}}/
 title: {{template}}
